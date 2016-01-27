@@ -43,5 +43,5 @@ Reproduction Steps
 
 Results
 ----------------
-* Tidy Dataset `AverageHuman+ActivityRecognitionUsingSmartphones.txt`
+* Tidy Dataset `AverageHumanActivityRecognitionUsingSmartphones.txt`
 * `CodeBook.md`
