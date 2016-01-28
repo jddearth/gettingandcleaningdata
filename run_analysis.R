@@ -62,4 +62,4 @@ for (s in 1:count_subjects) {
                 count <- count+1
         }
 }
-write.table(merged_data, "AverageHumanActivityRecognitionUsingSmartphones.txt")
+write.table(merged_data, "AverageHumanActivityRecognitionUsingSmartphones.txt", row.name = FALSE)
