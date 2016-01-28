@@ -37,8 +37,8 @@ Good luck!
 
 Reproduction Steps
 -------------------------------
-1. Ensure the necessary files are in the current working directory (use `setwd` if necessary)
-2. Run the R script `run_analysis.r`.
+1. Run the R script `run_analysis.r`.
+2. Find the results in your working directory (`getwd`)
 
 
 Results
